@@ -63,10 +63,6 @@ I’m building web apps and leveling up my MERN skills — one project at a time
 
 ---
 
-<p align="center">
-  <img src="https://github.com/atikurrahman24/atikurrahman24/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
 ---
 
 ⭐️ From [Atikur Rahman](https://github.com/atikurrahman24)
