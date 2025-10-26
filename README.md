@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm <span style="color:#3981c6;">Atikur Rahman</span></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=500&color=42A5F5,FF6B6B,FFD93D&center=true&vCenter=true&width=700&lines=Front-End+Web+Developer;React+%26+Tailwind+Expert;JavaScript+%7C+HTML+%7C+CSS;API+Integration+%26+Responsive+Design;Passionate+%26+Always+Learning" />
+</p>
 
-<!--
-**atikurrahman24/atikurrahman24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💙 About Me
+- 🎓 Diploma in Computer Science and Technology  
+- 🏫 Narsingdi Polytechnic Institute  
+- 🌱 Currently learning *MERN Stack Development*  
+- 💡 Passionate about building creative and beautiful websites  
+- 💬 Ask me about: MERN Stack (Front-End Development)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,react,nodejs,tailwindcss,github,figma" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atikurrahman24&show_icons=true&theme=tokyonight" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atikurrahman24&theme=tokyonight" height="160px" />
+</p>
+
+---
+
+### 🖼️ Animation Zone
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="80px">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200px" alt="coding animation">
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <!-- Gmail -->
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/your-number" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/atikurrahman24">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/your-linkedin-username/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+### ✨ Motivation
+I’m building web apps and leveling up my MERN skills — one project at a time.
+
+---
+
+<p align="center">
+  <img src="https://github.com/atikurrahman24/atikurrahman24/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+⭐️ From [Atikur Rahman](https://github.com/atikurrahman24)
