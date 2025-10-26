@@ -38,12 +38,12 @@
 ### 🌐 Connect with Me
 <p align="center">
   <!-- Gmail -->
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:thtatikurrahman24@gmail.com.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 
   <!-- WhatsApp -->
-  <a href="https://wa.me/your-number" target="_blank">
+  <a href="https://wa.me/8801407791541" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 
@@ -59,7 +59,7 @@
 </p>
 
 ### ✨ Motivation
-I’m building web apps and leveling up my MERN skills — one project at a time.
+*I don’t stop until it’s done — peace comes only after Completion.* 🔥
 
 ---
 
