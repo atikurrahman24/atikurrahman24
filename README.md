@@ -14,12 +14,12 @@
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,react,nodejs,tailwindcss,github,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,react,nodejs,tailwindcss,css,html,github,figma" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Status
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atikurrahman24&show_icons=true&theme=tokyonight" height="160px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atikurrahman24&theme=tokyonight" height="160px" />
