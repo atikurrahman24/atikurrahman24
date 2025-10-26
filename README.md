@@ -53,7 +53,7 @@
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/your-linkedin-username/">
+  <a href="[https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/atikur-rahman-445a1438b/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
