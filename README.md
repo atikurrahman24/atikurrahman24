@@ -25,13 +25,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atikurrahman24&theme=tokyonight" height="160px" />
 </p>
 
----
-
-### 🖼️ Animation Zone
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="80px">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200px" alt="coding animation">
-</p>
 
 ---
 
