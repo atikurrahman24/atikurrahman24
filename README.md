@@ -1,3 +1,5 @@
+https://atikurrahman24.github.io/Portfolio-2.0/
+
 <h1 align="center">Hi 👋, I'm <span style="color:#3981c6;">Atikur Rahman</span></h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=500&color=42A5F5,FF6B6B,FFD93D&center=true&vCenter=true&width=700&lines=Front-End+Web+Developer;React+%26+Tailwind+Expert;JavaScript+%7C+HTML+%7C+CSS;API+Integration+%26+Responsive+Design;Passionate+%26+Always+Learning" />
